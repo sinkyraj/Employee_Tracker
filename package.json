@@ -1,0 +1,25 @@
+{
+  "name": "Employee_Tracker",
+  "version": "1.0.0",
+  "description": "This app is about view and interact with information stored in databases regarding Employee",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinkyraj/Employee_Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinkyraj/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/sinkyraj/Employee_Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql2": "^2.2.5"
+  }
+}
